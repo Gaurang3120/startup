@@ -5,11 +5,9 @@
 
 }
 .intro{
-  height: 450px;
-  width: 550px;
-  border-style: solid;
-  border-width: medium;
-
+width: 100%;
+border-style:solid;
+border-width: medium;
 }
 .container-fluid{
   padding: 3% 15%
@@ -19,6 +17,7 @@
 }
 .dbutton{
   margin: 18% 9%;
+  padding-right: 5%;
 }
 .name{
   font-size: 3rem;
@@ -28,6 +27,7 @@
   font-weight: bold;
   font-size: 5rem;
   text-align: center;
+  padding-top: 15%;
 }
 .heading2{
   font-family: "Montserrat";
@@ -61,10 +61,11 @@
 
 }
 #features{
-  padding: 20% 0% 5%;
+  padding: 20% 5%;
 }
 .feature-box{
   padding: 5%;
+  text-align: center;
 }
 #testimonials{
   text-align: center;
@@ -133,4 +134,16 @@ margin: 5%;
 }
 .mail{
   width: 2%;
+}
+.check{
+  width: 15%;
+  margin: 5%;
+}
+.inter{
+  width: 15%;
+  margin: 5%;
+}
+.award{
+  width: 15%;
+  margin: 5%;
 }
